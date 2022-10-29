@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [In Progress](In Progress)
 
-- 💬 Ask me about **React JS, NextJS, Typescript, Nodejs, Javascript, C# ASP, ASP.NET CORE MVC, CSS, HTML, SQL, Socket, Redis, ETC**
-
 - 📫 How to reach me **starlin.marrero05@gmail.com, WhatsApp 📲 (+18297724268)**
 
 - ⚡ Fun fact **I love Coffee 💗**
