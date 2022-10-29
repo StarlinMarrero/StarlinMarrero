@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Starlin Marrero</h1>
-<h3 align="center">A passionate frontend and backend</h3>
+<h3 align="center">A passionate frontend and backend (Fullstack Developer)</h3>
 
 - 🔭 I’m currently working on **Private company**
 
