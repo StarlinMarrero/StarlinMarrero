@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [In Progress](In Progress)
 
-- 📫 How to reach me **starlin.marrero05@gmail.com, WhatsApp 📲 (+18297724268)**
+- 📫 How to reach me **starlin.marrero05@gmail.com
 
 - ⚡ Fun fact **I love Coffee 💗**
 
